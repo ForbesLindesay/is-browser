@@ -1,0 +1,14 @@
+{
+  "name": "is-browser",
+  "repo": "ForbesLindesay/is-browser",
+  "description": "Test whether you're a component in browser or a package in npm",
+  "version": "1.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "client.js"
+  ],
+  "main": "client.js"
+}

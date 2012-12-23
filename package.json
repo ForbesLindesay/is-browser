@@ -1,0 +1,13 @@
+{
+  "name": "is-browser",
+  "version": "1.0.0",
+  "description": "Test whether you're a component in browser or a package in npm",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/is-browser.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT",
+  "main": "server.js"
+}
