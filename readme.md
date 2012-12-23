@@ -1,4 +1,3 @@
-
 # is-browser
 
   Test whether you're a component in browser or a package in npm
@@ -19,7 +18,7 @@
 
 ```javascript
 if (require('is-browser')) {
-  console.log('The module was installed usign component');
+  console.log('The module was installed using component');
 } else {
   console.log('The module was installed using npm');
 }
