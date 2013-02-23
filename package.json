@@ -9,5 +9,6 @@
   },
   "author": "ForbesLindesay",
   "license": "MIT",
-  "main": "server.js"
+  "main": "server.js",
+  "browser": "client.js"
 }
