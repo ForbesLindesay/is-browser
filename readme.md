@@ -1,3 +1,4 @@
+<img src="http://i.imgur.com/T9MsYS0.png" align="right"/>
 # is-browser
 
   Test whether you're a component in browser or a package in npm
