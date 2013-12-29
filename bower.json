@@ -1,0 +1,24 @@
+{
+  "name": "is-browser",
+  "version": "2.0.0",
+  "homepage": "https://github.com/ForbesLindesay/is-browser",
+  "authors": [
+    "ForbesLindesay"
+  ],
+  "description": "Test whether you're a component in browser or a package in npm",
+  "main": "client.js",
+  "keywords": [
+    "browser",
+    "detection",
+    "is-browser",
+    "check"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
