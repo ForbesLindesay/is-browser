@@ -1,21 +1,13 @@
-<img src="http://i.imgur.com/T9MsYS0.png" align="right"/>
 # is-browser
 
-  Test whether you're a component in browser or a package in npm
-
+  Test whether you're running on the server or in the browser (using browserify)
 ## Installation
-
-  client:
-
-    $ component install ForbesLindesay/is-browser
-
-  server:
 
     $ npm install is-browser
 
 ## API
 
-  This simply exports `true` or `false`:
+This simply exports `true` or `false`:
 
 ```javascript
 if (require('is-browser')) {
@@ -27,4 +19,4 @@ if (require('is-browser')) {
 
 ## License
 
-  MIT
+MIT
