@@ -1,5 +1,7 @@
 # is-browser
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/is-browser.svg)](https://greenkeeper.io/)
+
   Test whether you're running on the server or in the browser (using browserify)
 ## Installation
 
