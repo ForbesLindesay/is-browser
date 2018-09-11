@@ -1,6 +1,6 @@
 {
   "name": "is-browser",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Test whether you're a component in browser or a package in npm",
   "main": "server.js",
   "types": "server.d.ts",
