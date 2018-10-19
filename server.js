@@ -1,1 +1,1 @@
-module.exports = false;
+module.exports = Boolean(process.versions.electron);
